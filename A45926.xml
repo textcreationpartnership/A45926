@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An instruction to performe with fruit the devotion of ten Fridays in honour of S. Francis Xaverius apostle of the Indies Much practised in Rome and augmented particularly of late by some most authentick miracles wrought by the intercession of this glorious saint. Vpon which score he is taken as particular patrone of allmost all Italy. Superiorum permissu.</title>
+         </titleStmt>
+         <extent>Approx. 90KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45926</idno><idno type="EEBO-CITATION">99828177</idno>
+  <idno type="VID">32604</idno>
+  <idno type="EEBO-PROQUEST">2240880939</idno>
+  
+            <idno type="STC">Wing I235</idno>
+            <idno type="STC">ESTC R216446</idno>
+            <idno type="PROQUEST">99828177</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828177e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1926:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An instruction to performe with fruit the devotion of ten Fridays in honour of S. Francis Xaverius apostle of the Indies Much practised in Rome and augmented particularly of late by some most authentick miracles wrought by the intercession of this glorious saint. Vpon which score he is taken as particular patrone of allmost all Italy. Superiorum permissu.</title>
+               </titleStmt>
+               <extent>124, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Saint-Omer :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication and translator's note signed: N.N.</note>
+                  <note>Place and date of publication from Wing; other sources suggest date ca. 1670. Cf. Clancy.</note>
+                  <note>Dedicated to Lady Mary Caryll, Abbess of the English Benedictine order at Dunkirk.</note>
+                  <note>Translation of Italian devotions to Saint Francis Xavier; original not traced.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Francis Xavier, --  Saint, 1506-1552 --  Early works to 1800.</term>
+               <term type="corporate_name">Catholic Church --  Prayer-books and devotions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32604:1"/>
+            <p>AN INSTRUCTION TO performe with fruit the Devotion OF TEN FRIDAYS IN HONOUR OF S. FRANCIS XAVERIUS APOSTLE OF THE INDIES.</p>
+            <p>Much practised in Rome and aug<g ref="char:EOLhyphen"/>mented particularly of late by some most authentick miracles wrought by the intercession of this glorious SAINT.</p>
+            <p>
+               <hi>Vpon which score he is taken as par<g ref="char:EOLhyphen"/>ticular Patrone of allmost all Italy.</hi>
+            </p>
+            <p>Superiorum permissu.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32604:2"/>
+            <pb facs="tcp:32604:2"/>
+            <head>TO THE HONOURABLE THE LADY MARY CARYLL ABBESSE OF THE ENGLISH BENEDICTIN DAMES AT DUNKERQUE.</head>
+            <opener>
+               <salute>MADAM</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OVR particular devo<g ref="char:EOLhyphen"/>tion to the Glorious <hi>SAINT XAVERIVS,</hi> whose power your Ladyship after an extraordinary manner expe<g ref="char:EOLhyphen"/>rienced by the suddain and Won<g ref="char:EOLhyphen"/>derfull cure of the cancer in your
+<pb facs="tcp:32604:3"/>breast, when abandoned as despe<g ref="char:EOLhyphen"/>rate both by Physitian, and Chi<g ref="char:EOLhyphen"/>rurgeons you had recourse to him assures me this treatise will find as harty a well come to your Ladyship as I wish is to all, into whose hands it may come; and am glad of so good an occa<g ref="char:EOLhyphen"/>sion as this is of expressing those due respects, which your particu<g ref="char:EOLhyphen"/>lar favours oblige me to; and comfort my self that whilst here<g ref="char:EOLhyphen"/>after you exercise these your ac<g ref="char:EOLhyphen"/>customed devotions to this great Saint they will be an occasion of your remembring in them</p>
+            <closer>
+               <salute>MADAM</salute>
+               <signed>Your Ladyships obliged and humble Servant N. N.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32604:3"/>
+            <head>The Translatour to the Reader.</head>
+            <opener>
+               <salute>COURTEOUS READER.</salute>
+            </opener>
+            <p>THe experience I had in Rome, and other parts of Italy of the fol<g ref="char:EOLhyphen"/>lowing Devotions to the Glorious Saint XAVERIVS made me desirous that our nation out of ignorance of the meanes of obtain<g ref="char:EOLhyphen"/>ing them, might not want the like; and therfore I thought my time well
+<pb facs="tcp:32604:4"/>spent in translating this treatise, in which you will find neither quaint<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss nor eloquence, but such a plaine &amp; easy stile, as is most suitable to devo<g ref="char:EOLhyphen"/>tion, and fittest for the meanest capacities, being desirous all should profit by it. Let not the perfect practice of those eminent vertues proposed to you to imitate in this Great Saint, discourage you from endeavouring their imita<g ref="char:EOLhyphen"/>tion out of a pusilanimous despaire, ever to arrive to so
+<pb facs="tcp:32604:4"/>high a pitch of perfection; but endeavour to imitate at least this so admirable a pattern in a lower degree; and the more sensible you are of your own weakness, the more confide in his powerfull intercession who (as the writers of his life testifie) allways obtained what was for the spirituall advantage of those that begged his intercession, as you may assure yourself he will think these vertues to be. I cannot wish a bet<g ref="char:EOLhyphen"/>ter success to this transla<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:32604:5"/>then the original had, nor better effects of these devotions in my own Country then they have had in Italy; and I hope whoever experiences any advantage by them, will be moved to pray for the translatour of them who is</p>
+            <closer>
+               <salute>DEAR READER</salute>
+               <signed>Your most harty-well-wisher and humble servant N. N.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="9" facs="tcp:32604:5"/>
+            <head>AN EPITOME OF THE LIFE OF S. FRANCIS XAVERIVS APOSTLE OF THE INDIES OF THE SOCIETY OF IESVS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Divine Providence the same time it opened the way to the Indies, and the new world, dis<g ref="char:EOLhyphen"/>posed that Saint Xaverius should come into this, and be born to both, an elect vessel to carry his holy faith over all, and in the former establish a new Christia<g ref="char:EOLhyphen"/>nity; for which end it qualified
+<pb n="10" facs="tcp:32604:6"/>him with all those gifts wee read were severally bestowed on several persons in the primitive Church, viz. <hi>of being an Apostle, of Prophecy, of Learning, of vertue, of health, of succouring the needy, of governement, and of tongues.</hi>
+            </p>
+            <p>SAINT FRANCIS was an Apo<g ref="char:EOLhyphen"/>stle, as sent by Christs Vicar with title of Nuncius Apostolicus, to preach the Gospell to the Indians; in ten yeares he ran over all the East, making above a hundred thousand miles. He revived that faith, Saint Thomas the Apostle had there before taught; then for<g ref="char:EOLhyphen"/>telling, that when the sea should come vp to that Crosse, (which he erected) as it did when S. Xave<g ref="char:EOLhyphen"/>rivs enterd those parts, then should Europesen done that should preach the same doctrine he had all<note place="bottom">S. Paul 1. Cor. 12. c. 28. v.</note>
+               <pb n="11" facs="tcp:32604:6"/>ready taught them. He converted many hundred thousands of infi<g ref="char:EOLhyphen"/>dells; with severall Kings, Queens and Princes. He threw down the temples of Mahomet, and of the Idols, whereof he broke forty thousand. He erected innumerable Churches, baptized with his own hand above a million and two hun<g ref="char:EOLhyphen"/>dred thousand persons. He was the first that ever preach'd to severall nations and islands, and particular<g ref="char:EOLhyphen"/>ly Iapony, which contains three<g ref="char:EOLhyphen"/>score and six Kingdoms: and de<g ref="char:EOLhyphen"/>signing to convert that great Em<g ref="char:EOLhyphen"/>pire of China, dyed in the way in the Island of Sanciano. You see how well is verified that prophecy of a holy Nunne his sister, that desired her Father to let him con<g ref="char:EOLhyphen"/>tinue his studies, for he should prove a great Apostle of the In<g ref="char:EOLhyphen"/>dies. S. Hierome appearing to him
+<pb n="12" facs="tcp:32604:7"/>at Vicentia promised him the like; shewing him the Indies, and what fruit he was to reap there. Our Saviour himself, declared the same, the Saint in Rome often hearing those words.<note n="*" place="bottom">Act. 15.16.</note>
+               <hi>Avessel of election is this man vnto me: For I will shew him how great things he must suffer for my name.</hi> Representing to him with all an Indian weeping, and lamenting his owne and his whole countries woefull condi<g ref="char:EOLhyphen"/>tion, begging help and comfort from him; which he most graci<g ref="char:EOLhyphen"/>ously &amp; plentifully did afterwards bestow for the space of ten yeares vpon the whole East.</p>
+            <p>He was also a Prophet fore<g ref="char:EOLhyphen"/>telling things to come and far di<g ref="char:EOLhyphen"/>stant, and knowing the very secre<g ref="char:EOLhyphen"/>test thoughts of mans hart, in so much that at the same time the
+<pb n="13" facs="tcp:32604:7"/>King in Portugall and Saint Igna<g ref="char:EOLhyphen"/>tius at Rome ordered things to be done, he in the Indies published and executed their orders, and with that certainty that once in a publick sermon from the pulpit, he exactly related the succes and circumstances of a battle, which in that very nick of time was fought between the Aceni and the Christians, above three thousand miles distant from the place where he then preached; as by strickt examination afterwards was found to be true. This foretelling future things grew so customary to him, that he was scarce called any thing but Prophet: wherevpon a most Learned man with good reason said, that the spirit of prophecy in many was as it were by fits, but in Saint Francis it was a continual habit.</p>
+            <pb n="14" facs="tcp:32604:8"/>
+            <p> He was not only Master of Phi<g ref="char:EOLhyphen"/>losophie at Paris, but also teacher of the Divine wisdome in the In<g ref="char:EOLhyphen"/>dies, preaching the Gospel to all sorts of people; confuting in seve<g ref="char:EOLhyphen"/>rall publick disputs the Brackmans of the Indians, the Imany of the Turks, the Bonzi of the Iaponi<g ref="char:EOLhyphen"/>ans (all false preachers of Idolatry) with that fame and renowne that a Pagan came six thousand miles only to heare his doctrine, whose worth is s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fficiently made known by the sanctity of his own life and of these his disciples Gaspar Berzeus, Cosmo Torres, Antonio Criminale the first that was mar<g ref="char:EOLhyphen"/>tyred there, and many others of his order, and even by the children he nursed vp in this holy doctrine, who became great preachers, and wrought many miracles, cast out divels, cured diseases, threw down
+<pb n="15" facs="tcp:32604:8"/>idols; and finally by the six hun<g ref="char:EOLhyphen"/>dred martyrs in the Island of Ma<g ref="char:EOLhyphen"/>nar and infinite others of Iapony and the Indies that were all his disciples.</p>
+            <p>The fourth gift of vertues, mea<g ref="char:EOLhyphen"/>ning that which adorns the soul, was in him most admirable. His love of God is sufficiently known all the world over, so farr from being biased by any self interest, that seing in a vision all the labour he was to vndergo, he cried out, <hi>Amplius Domine, Amplius; More Lord, More;</hi> and at another time having a tast of divine consolations to that degree, as he disowned himself any further capable of receiving them, he said, <hi>Satis est Domine, satis est. It is enough, Lord, it is e<g ref="char:EOLhyphen"/>nough.</hi> Such was his charity, that he went to preach the Gospel to the infidels bare foot, trampling
+<pb n="16" facs="tcp:32604:9"/>vpon thorns, loaded with a little furniture for Masse, and some few pious bookes; provided only with a spare quantity of rice; waiting vpon others, running at their horses heeles, to hasten the sooner to the converting of souls; allways out of himself with the love of God; suffering so many misfortunes at sea by tem<g ref="char:EOLhyphen"/>pests and frequent ship-wracks, thrice sinking vnder the sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p; always in dangers and troubles, crosses and afflictions. Persecuted by Infidels, theeves, Divels, false Bretheren, had in derision, scoffed at, and most barbarously misvsed by those he had been most charitable and beneficial vn<g ref="char:EOLhyphen"/>to. Beaten most cruelly by the wicked spirits, and molested with their temptations. Threatned to be murdered by cut throats: by
+<pb n="17" facs="tcp:32604:9"/>Idolatours held for a mad man even in the court of the King of Aman<g ref="char:EOLhyphen"/>gucci where they reviled him with curses, coverd him with durt, over<g ref="char:EOLhyphen"/>whelmed him with stones, and treacherously layd snares to take away his life; often endeavouring to poyson him; twice giving him into the hands of assassinats to be dispatched. Being stoned by the Gentils of the island of Moro, he made his escape over a broad river by the means of a great timber beam which he handled and turned like a little wand. How often did he give his life for Christ? When he attended those that were infected with the plague; when he vpbrai<g ref="char:EOLhyphen"/>ded their infidelity to the very Gentils ready armed with stones to kill him; when in spite of prin<g ref="char:EOLhyphen"/>ces and priests he threw down their Idols; when he alone resisted a
+<pb n="18" facs="tcp:32604:10"/>whole army of Badaga, that in a fury intended to oppres the Chri<g ref="char:EOLhyphen"/>stians; when he intrusted himself going into Iapony in a small boat, to pirats infamous for killing pas<g ref="char:EOLhyphen"/>sengers; when he entred the Island of Moro, where they eat mans flesh; when he went to China, where it was death for any to en<g ref="char:EOLhyphen"/>ter. So much did he love God and his neighbour, but contemned and made himself most despicable, ex<g ref="char:EOLhyphen"/>ercising all severity imaginable v<g ref="char:EOLhyphen"/>pon his tender flesh. A Man that was so nobly borne, of the race of the kings of Navarre, and honoured with the title of Nuncius Aposto<g ref="char:EOLhyphen"/>licus, kneeled to every poore and ordinary priest, to kisse his hand; making and deeming himself a slave to all: in the ships, inns, hospitalls, serving the very mea<g ref="char:EOLhyphen"/>nest beggar and basest servants;
+<pb n="19" facs="tcp:32604:10"/>looking after their horses, sweep<g ref="char:EOLhyphen"/>ing their chambers, washing their durty linnen and vessels; ex<g ref="char:EOLhyphen"/>ercising the lowest offices, even cleansing their sors and wounds, with that charity and victory of himself, as to supp vp the water wherwith he had washed one that had a leprosie, and another time to suck out the putrefaction and matter of a most loathsome sore. I omitt his other vertues. He eat only once a day, and then only a little burnt rice, and often nothing for four, five, six and seven days togea<g ref="char:EOLhyphen"/>ther: His drinke was water; he was cloathed with a haireshirt, wore one single garment of black canvais all patched. His sleep was either at land vpon the bare ground, or the cables on ship board: His penance so rigid and austere that he fainted often thrô his fast<g ref="char:EOLhyphen"/>ings
+<pb n="20" facs="tcp:32604:11"/>and severe disciplines, wher<g ref="char:EOLhyphen"/>with he tore his tender and inno<g ref="char:EOLhyphen"/>cent body. If by vertue you meane miracles, he wrought infinite. In the fire, stopping it with his bare word when a house was actually burning. In the aire, driving away the plague from Malaca with the sweet savour of his dead corps: and making it raine stones and ashes vpon the City of Tolo, rebelling from Christ and the Portughese, which filling vp the ditches and demolishing the walls, forced them to a surrender. In the water, allay<g ref="char:EOLhyphen"/>ing tempests, sweetning salt water by the signe of the crosse or dipp<g ref="char:EOLhyphen"/>ing his foot therein. In the carth causing earth quakes. In his owne body raising it in the aire, preser<g ref="char:EOLhyphen"/>ving it incorrupt and in the flower of virginity, ever free from the least motion of concupiscence. He
+<pb n="21" facs="tcp:32604:11"/>still lived thô amongst so many snares, diseases, labours, plagues and poysons, even without the least infection or hurt, vntouched, &amp; af<g ref="char:EOLhyphen"/>ter death sending out a most odori<g ref="char:EOLhyphen"/>ferous savour even amongst quick lime, and moist and wet earth. The very beasts obeyed him; a lobster brought to shore his crosse that had fallen into the sea. The Divells feared him dispossessing all that were brought to him. In the Island of Moro at his first sermon he pre<g ref="char:EOLhyphen"/>ach'd there, the earth shaking and opening, hideous cries and scricks of Divels were heard, that fled from their so long inhabited do<g ref="char:EOLhyphen"/>minions; in so much that they appeared all surrounded with fire in the aire, to the people; crying out. You burne and torment vs, Francis, you drive vs from our kingdom.</p>
+            <pb n="22" facs="tcp:32604:12"/>
+            <p> He was no less famous for the fifth gift of curing diseases. Wit<g ref="char:EOLhyphen"/>nes Father Francis Perez Rectour then of the Colledge of Malaca, who vpon the point of gasping was perfectly cured by Saint Francis embracing him: he that he healed of his wounds by only carrying him vpon his back: That Leper, whose soares he cured with only washing them. Witnes also the Bishop of Malaca, who desiring a summary of all the miracles the Saint had wrought, and finding after strickt examination eight hundred only in his own Dioces, ceased to prosecute his first thoughts despairing ever to reck on them. Let the Indies confes and ac<g ref="char:EOLhyphen"/>knowledge his power in this point, where not he in his own person only, but his hair, girdle, beads, the very pulpit he preached in, the
+<pb n="23" facs="tcp:32604:12"/>lamps that burnt before his shrine, the water wherin was dipped only a meddal of his, even his very shaddow (which is yet more won<g ref="char:EOLhyphen"/>derfull) cured many diseases. Let him answer for himself; he can testifie that in an instant, by praier he was healed of those most dan<g ref="char:EOLhyphen"/>gerous incisions mortall of them<g ref="char:EOLhyphen"/>selves and beyond the art of man, as the surgeons confessed; caused by little cords, wherwith, out of to much fervour, he had girded his thighs and armes.</p>
+            <p>This is inconsiderable if com<g ref="char:EOLhyphen"/>pared to his power of raising the dead. Besides many others it is au<g ref="char:EOLhyphen"/>thentically proved that five and twenty have obeyed his call; some as they were carried to theire gra<g ref="char:EOLhyphen"/>ves, others having been buried se<g ref="char:EOLhyphen"/>veral days, refreshing hereby the memory of Christ's own actions.
+<pb n="24" facs="tcp:32604:13"/>A noble Gentil entreated him to come and raise his daughter, now deceased; and receiving this an<g ref="char:EOLhyphen"/>swer that she was alive, dissatisfied, left Saint Francis, but was soon comforted by his servants, that told him, she lived. A Lady (like Mar<g ref="char:EOLhyphen"/>tha) lamenting her losse, said if you had been here, my daughter had not died; why, said the Saint, she is not dead; yes, replyed shee, and three days, buried; the Saint ac<g ref="char:EOLhyphen"/>companying her to the grave res<g ref="char:EOLhyphen"/>tored the daughter alive to the afflicted and incredulous Mother.</p>
+            <p>His whole life was nothing but an exercise of the sixt gift, of hel<g ref="char:EOLhyphen"/>ping the needy; he was totally ta<g ref="char:EOLhyphen"/>ken vp in tending the sicke, and the poore, succouring the oppressed, instructing the ignorant and sin<g ref="char:EOLhyphen"/>ners, assisting all that were in ne<g ref="char:EOLhyphen"/>cessity and danger, either spiritual
+<pb n="25" facs="tcp:32604:13"/>or temporal, with so much careful<g ref="char:EOLhyphen"/>ness and industrious zeal that none is able to expres it. One S. Francis was not sufficient to work accor<g ref="char:EOLhyphen"/>ding to the great charity he bore to all: to the end he might help se<g ref="char:EOLhyphen"/>verall, he was actually present to each at the same time in different places; as when called vpon by a Marchand who suffer'd shipwrack, he obeyed and stayd with him three days vpon the plank, till all the rest of the ship were dead, and then brought him safe to shore: and when with the same miracu<g ref="char:EOLhyphen"/>lous apparition he saved ten men in a little boat. Such was the confi<g ref="char:EOLhyphen"/>dence sea men had in his presence, that the oldest and most shivered ships were reckoned the most safe; &amp; infidels themselves for more se<g ref="char:EOLhyphen"/>curity loaded all their goods vpon them, thô with double charges and
+<pb n="26" facs="tcp:32604:14"/>expences; whome he assisted even after his death; for carrying his body in a very tottered vnsafe and ill-rig'd ship, and running vpon a rock, the sea-men betook them<g ref="char:EOLhyphen"/>selves to invoke the Saints aid, and presently the rock split in two and opened a passage for the ship. Whervpon now at sea he is the Patrone of mariners, even amongst infidels.</p>
+            <p>He was eminent for the gift of Government and directing souls, with no lesse satisfaction of secu<g ref="char:EOLhyphen"/>lars, then religious: gratefull all<g ref="char:EOLhyphen"/>ways to the people, dear to Kings and Princes; winning the harts of all. Saint Ignatius would have made him General of his whole order; The King of Portugall re<g ref="char:EOLhyphen"/>verenced his words as commands, as did also the King of Bong<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Amangucci, The King of Tra<g ref="char:EOLhyphen"/>vancor,
+<pb n="27" facs="tcp:32604:14"/>called the great King, put out an edict commanding all should obey the Great Father, (so he called Saint Francis) as the Great King. He converted the King of Tanor and several others. Pope Paul the third admired his sanctity. Marcellus the second, desiring to see him, sent for him from the Indies to come to Rome; so much did he winn the harts of all far and near. The Gentils re<g ref="char:EOLhyphen"/>verenced him, and even erected a Church in his honour; where some wicked fellows out of contempt having often stole the oile from the lamp, and powred water in it's place, enraged to see the week yet burn and themselves deluded, put it quite out, which as often lighted of it self to their greater confusion, and Christians greater comfort. Another time, being all alone he
+<pb n="28" facs="tcp:32604:15"/>met a whole army of enemies that were heathens whome he fright<g ref="char:EOLhyphen"/>ed and put to flight with his bare authority.</p>
+            <p>To conclude, his gift of tongue<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is no less wonderfull then the for<g ref="char:EOLhyphen"/>mer. They spoke in those Coun<g ref="char:EOLhyphen"/>tryes a hundred different langua<g ref="char:EOLhyphen"/>ges which Saint Francis spoke no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only well, but also with great faci<g ref="char:EOLhyphen"/>lity and eloquence; yet with thes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two priviledges; the first, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preaching to men of different na<g ref="char:EOLhyphen"/>tions, he was perfectly vnderstoo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by every one; the second, that wit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one and the same word and answe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he satisfied the doubts &amp; question<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of many togeather, althô concern<g ref="char:EOLhyphen"/>ing things both hard and of dif<g ref="char:EOLhyphen"/>ferent matters. These and man<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other things wee read of him i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Historians, and in the proces o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Canonization. They add mor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="29" facs="tcp:32604:15"/>over that he was not so well known or so much called by the name of Francis, as sometimes of Angel or Prophet, sometimes of raiser of the dead, now by that of Holy Father, other times of Great Father. But allways and by all with the appro<g ref="char:EOLhyphen"/>bation of the Pope and applause of the whole world he was called by the name of Apostle.</p>
+            <p>To whose holy intercession and patronage by the assistance of your prayers I commend myself, hoping you'le find his holy aid and assi<g ref="char:EOLhyphen"/>stance in all▪ your necessityes (if for the good of your souls) as you have seen others before you. Observe more over (as it has been more exa<g ref="char:EOLhyphen"/>ctly noted in these our latter days) that none with faith and devotion ever recommended themselves vn<g ref="char:EOLhyphen"/>to him, that missed of their aime, or at least did not receive someth<g ref="char:EOLhyphen"/>ing
+<pb n="30" facs="tcp:32604:16"/>more beneficial to themsel<g ref="char:EOLhyphen"/>ves &amp; their souls good, which was and is his only scope in conferring benefits. Lett vs comfort our selves with what he told F. Marcellus Mastrilli at Naples, when ap<g ref="char:EOLhyphen"/>pearing to him he miracu<g ref="char:EOLhyphen"/>lously cured him, <hi>Non pa<g ref="char:EOLhyphen"/>rùm se posse in Paradiso. That his power was great in the court of Heaven.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="31" facs="tcp:32604:16"/>
+            <head>AN ADVERTISSEMENT OF THE AUTHOUR <hi>To the Devout Reader.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>AINT FRANCIS XAVE<g ref="char:EOLhyphen"/>RIVS, is allways ready to help those that de<g ref="char:EOLhyphen"/>voutly implore his aide in all their necessitys of what kind soever, and even to obtain of God most miraculous favours for them, as als Christendom can testify; and for this reason he is called the new Thaumaturgus, that is worker of miracles; which are sufficient to fill whole volumes; and wee here in short will touch vpon the heads only of some few, to animate the
+<pb n="32" facs="tcp:32604:17"/>reader to have recourse to this great Saint.</p>
+            <p>Peter Veglio a Portughese Mar<g ref="char:EOLhyphen"/>chant of a very loose life, by means of an almes he had once given in necessity, deserved Gods mercy thrô the Saints intercession, &amp; was brought to repentance, and relei<g ref="char:EOLhyphen"/>ved in all other corporall necessitys by the same Saint Francis, who likewise foretold him the hour of his death, which accordingly hap<g ref="char:EOLhyphen"/>pened.</p>
+            <p>He appeared to a Woman that had been a long time sick in Ma<g ref="char:EOLhyphen"/>lavar, and promising to send her one that should hear he confessi<g ref="char:EOLhyphen"/>on, advised her of her death.</p>
+            <p>A youth in the Hospital of Mo<g ref="char:EOLhyphen"/>zambichi, raving thrô the sharpnes of his distempter, by the only touch of the Saint was cured both in body and soul.</p>
+            <pb n="33" facs="tcp:32604:17"/>
+            <p> An Indian by profession a school<g ref="char:EOLhyphen"/>master, by life a most lewd de<g ref="char:EOLhyphen"/>bauch'd wretch, was converted by the Saint's appearing to him, and obeyed that gracious call of God to a better life.</p>
+            <p>Being desired by a Christian Lady to disposses a youth that was tormented by the Divel, as soon as he entred the house, the wicked spirit quitred his habitation, and the youth before ready to dye was thervpon restored to perfect health of body. An Indian Poët that had accidentally lost his eyes by gun-powder, after many years applying himself to the Saint recovered his sight better then before, which miracle he published in verse over all India.</p>
+            <p>He healed a leper with washing his sores and drinking that filthy mixture of matter and water.</p>
+            <pb n="34" facs="tcp:32604:18"/>
+            <p> An Idolatour woman that was barren, at the intercession of Saint Francis was blessed by God with a son, who soon after dying was restored to life again by the Saint.</p>
+            <p>He raised an other that was drowned in a well; and a third, that dyed of the plague.</p>
+            <p>Jn the Kindome of Travancor he raised one that had been buried, and an other in Murar, as he was carried to his grave.</p>
+            <p>Jn Malaca he brought to life a child that had been dead three days; and in the same place the son of one that was devoted to him.</p>
+            <p>Jn Iapony he gave life to a daughter of an Idolatour. To two others in Manapar, and to severall else-where, as all the world can testifie, and the transactions of
+<pb n="35" facs="tcp:32604:18"/>his canonization doe authentically evidence.</p>
+            <p>He restored to a seaman his son that had been lost six days at sea.</p>
+            <p>He filled a whole sea with fish, where none scarce could ever be found before, and with his blessing turned the salt water of the sea into fresh.</p>
+            <p>He obtained rain to free a King from his enemies that surrounded him.</p>
+            <p>A Desperate gamester that had lost all he had in the world, encou<g ref="char:EOLhyphen"/>raged by the Saint to try to mend his condition, recovered his looses and withall obtained the conver<g ref="char:EOLhyphen"/>sion of his soul, which was the Saints only aime.</p>
+            <p>He saved severall ships from pe<g ref="char:EOLhyphen"/>rishing in tempests and storms. He was in severall places at once.</p>
+            <p>The very Children whome he
+<pb n="36" facs="tcp:32604:19"/>taught the Christian doctrine, with the beads and medals of Saint Fran<g ref="char:EOLhyphen"/>cis cast out Divels, and wrought many miracles.</p>
+            <p>His very hand-writing cured the sick, and his pictures stopped and quenched a great fire.</p>
+            <p>The oyle that burns in the lamps before the Saints body at Goa, has cured many infirm and sick of all diseases.</p>
+            <p>A Christian Lady by means of a crosse that the Saint had erected in Amboino to be honoured, ob<g ref="char:EOLhyphen"/>tained in time of a great drought, plentifull rain, which the Idola<g ref="char:EOLhyphen"/>trous women were not able to ob<g ref="char:EOLhyphen"/>tain from their Idols with their enchanted witchcraft.</p>
+            <p>The Saint appeared to a Mar<g ref="char:EOLhyphen"/>chant that had recommended him<g ref="char:EOLhyphen"/>self to him, an had a pair of beads of the Saints with him, five days
+<pb n="37" facs="tcp:32604:19"/>after he had suffered shipwrack, and brought him safe to shore, and stay'd with an other three days vpon the same plank, and at last landed him safe.</p>
+            <p>God blessed severall barren wo<g ref="char:EOLhyphen"/>men with issue at this Saints inter<g ref="char:EOLhyphen"/>cession.</p>
+            <p>An Indian in Punicale that had three daughters, prayed to the Saint to beg of God the blessing of three sons, which she obtained. Wee shall weary our selves in re<g ref="char:EOLhyphen"/>hearsing all the wonders wrought by this great Saint, as the Vicar General of Goa owned of himself after he had reckoned vp eight hundred.</p>
+            <p>Wee read of an hundred authen<g ref="char:EOLhyphen"/>tically approved of in the proces of his canonization. The miracles that have been wrought at Potami in the Kingdome of Naples by a
+<pb n="38" facs="tcp:32604:20"/>picture of his are sufficient to fill a whole volume,</p>
+            <p>The Church therfore with good reason says of him on his feast, <hi>This Saint so bountifull, so gratious, and so loving, shines over all the world by his most resplendent miracles.</hi> Who will be no lesse ready and willing to assist you in all your necessi<g ref="char:EOLhyphen"/>tyes, if you amend your life and reforme your manners; the Saint aiming by these temporall favours he bestoweth, at nothing else then the salvation of every ones soul, which God of his infinite mercy grant to all,</p>
+            <closer>
+               <signed>By the intercession of SAINT FRANCIS XAVERIVS.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="39" facs="tcp:32604:20"/>
+            <head>To the Devout Clyents of the Glorious Apostle of the Indies SAINT FRANCIS XAVERIVS.</head>
+            <p>
+               <seg rend="decorInit">H</seg>ERE is layd before you (Clyents of this Great XAVERIVS) a little par<g ref="char:EOLhyphen"/>cel of the innumerable actions and most heroick enter<g ref="char:EOLhyphen"/>prises of SAINT FRANCIS, which he took in hand, only to the grea<g ref="char:EOLhyphen"/>ter honour of God, and for the good of his neighbour.</p>
+            <p>Jf you like this small compen<g ref="char:EOLhyphen"/>dium and find your hart enflamed with a desire of more, betake your selve to the history of his life copiously written by many, but yet far short of what he did.</p>
+            <pb n="40" facs="tcp:32604:21"/>
+            <p> Those that desire to honour this Saint by imitating him, and profit themselfs thereby, must reflect vpon that saying of Saint Augu<g ref="char:EOLhyphen"/>stin; that, <hi>Non pigeat imitari quod delectat celebrare;</hi> that is; <hi>they must not be ashamed to imitate, what they delight to honour.</hi>
+            </p>
+            <p>The Saints are willing to find in vs some similitude of their ver<g ref="char:EOLhyphen"/>tues which they haue practised before vs in this world, to the end they may be the easier stirred vp to obtaine our petitions. For which reason here are ten vertues of this Saint allotted for ten fridays: and althô this Glorious Saint was ad<g ref="char:EOLhyphen"/>mirable in all the vertues of a most sublime Christian perfection, yet these seem more particularly ne<g ref="char:EOLhyphen"/>cessary, and also in some sort fitter to be imitated, which wee shall here sett downe.</p>
+            <pb n="41" facs="tcp:32604:21"/>
+            <p> You shall every friday read one with reflection, &amp; purpose to imi<g ref="char:EOLhyphen"/>tate him therein, and beg it of God by the merits of this Saint for your selfe, not forgetting me. Whervnto it will help very much, to resolve from one friday to another to practise more or lesse the vertue proposed in the former conside<g ref="char:EOLhyphen"/>ration according to the neces<g ref="char:EOLhyphen"/>sity you find therof in your soul; By which frequent acts you will great<g ref="char:EOLhyphen"/>ly facilitate and advance your spiritual profit.</p>
+         </div>
+         <div type="part">
+            <pb n="42" facs="tcp:32604:22"/>
+            <head>GENERAL ADVERTISMENTS</head>
+            <head type="sub">For those that desire to honour <hi>SAINT XAVERIVS,</hi> by imitating these his vertues.</head>
+            <list>
+               <item>1. BE Devout to the holy Cru<g ref="char:EOLhyphen"/>cifix.</item>
+               <item>2. Pray for the conversion of Infidels.</item>
+               <item>3. Pray for the souls in Purga<g ref="char:EOLhyphen"/>tory.</item>
+               <item>4. Be a louer of Chastity.</item>
+               <item>5. According to your condition endeavour to help your neighbour, as well in spirituals, by teaching the Christian Doctrin to children and ignorant people, hindering their sins, exhorting them to doe well, and giving good example; as
+<pb n="43" facs="tcp:32604:22"/>in temporals, by giving almes, vi<g ref="char:EOLhyphen"/>siting the sick and Hospitals, de<g ref="char:EOLhyphen"/>fending the poor, and helping them in necessity.</item>
+               <item>6. Confesse often.</item>
+               <item>7. Examine your conscience dayly.</item>
+               <item>8. Reflect often vpon those words. <hi>Quid prodest homini si vni<g ref="char:EOLhyphen"/>versum mundum lucretur, animae vero suae detrimentum patiatur?</hi> That is, <hi>What doth it avail a man to gaine the whole world with the losse of his own soul?</hi>
+               </item>
+               <item>9. Return good to him that has displeas'd or injured you.</item>
+               <item>10. Promote the devotion to the Saint.</item>
+            </list>
+            <div type="section">
+               <head>Antiphon.</head>
+               <p>WEll fare thee Good and faithfull servant, because thou hast been faithfull over a few things, I will place thee over many
+<pb n="44" facs="tcp:32604:23"/>things, enter into the joy of thy Lord.</p>
+               <p>
+                  <hi>Vers.</hi> Our Lord hath guided the just by right ways.</p>
+               <p>
+                  <hi>Resp.</hi> And shewed him the King<g ref="char:EOLhyphen"/>dom of Heaven.</p>
+            </div>
+            <div type="section">
+               <head>The prayer.</head>
+               <p>LORD God who hast vouchsa<g ref="char:EOLhyphen"/>fed by the preaching and mi<g ref="char:EOLhyphen"/>racles of SAINT FRANCIS XAVE<g ref="char:EOLhyphen"/>RIVS to joyn vnto thy Church the Countries of the Indies; grant pro<g ref="char:EOLhyphen"/>pitiously, we beseech thee, that reverencing his glorious merits we may also imitate his examples. Though Christ our Lord, Amen.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>A PRAYER</hi> To the five wounds of our Saviour much vsed by <hi>S. FRANCIS.</hi>
+               </head>
+               <p>DOmine IESV CHRISTE per quinque illa vulnera quae tibi in cruce nostri amor inflixit, sub<g ref="char:EOLhyphen"/>veni
+<pb n="45" facs="tcp:32604:23"/>famulis tuis N. N. quos pre<g ref="char:EOLhyphen"/>tioso sanguine redemisti.</p>
+               <p>O Lord JESVS CHRIST, by the five wounds thou wast plea<g ref="char:EOLhyphen"/>sed to receive vpon the Crosse for love of vs, help thy Servants N.N. whom thou has redeemed with thy pretious blood.</p>
+               <p>To the greater glory of God and salvation of souls. Amen.</p>
+            </div>
+            <div type="section">
+               <head>THROUGH THE INTERCESSION OF SAINT FRANCIS XAVERIUS.</head>
+               <lg>
+                  <l>O Deus! ego amo te,</l>
+                  <l>Nec amo Te, vt salves me:</l>
+                  <l>Aut quia non amantes Te</l>
+                  <l>Aeterno punis igne.</l>
+                  <pb n="46" facs="tcp:32604:24"/>
+                  <l>Tu, Tu mi JESV, totum me</l>
+                  <l>Amplexus es in Cruce.</l>
+                  <l>Tulisti Clavos, Lanccam,</l>
+                  <l>Multam{que}ue ignominiam.</l>
+                  <l>Innumeros Dolores,</l>
+                  <l>Sudores &amp; Angores:</l>
+                  <l>Ac mortem; &amp; haec propter me</l>
+                  <l>Ac pro me peccatore.</l>
+                  <l>Cur igitur non amem Te</l>
+                  <l>O IESV amantissime?</l>
+                  <l>Non vt in coelo salves me,</l>
+                  <l>Aut ne aeternum damnes me,</l>
+                  <l>Nec praemij vllius spe;</l>
+                  <l>Sed sicut Tu amasti me,</l>
+                  <l>Sic amo, &amp; amabo Te.</l>
+                  <l>Solum quia Rex meus es,</l>
+                  <l>Et solùm, quia Deus es.</l>
+                  <l>Amen.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="47" facs="tcp:32604:24"/>
+            <head>THE RAPTURE OF <hi>An affectionate soul before</hi> A CRUCIFIX <hi>Composed en latin</hi> BY THE HOLY FATHER S. FRANCIS XAVERIUS.</head>
+            <lg>
+               <l>O God I love thee, not to get</l>
+               <l>Thy favour to be saved; nor yet</l>
+               <l>To shun that sad eternal lot</l>
+               <l>Designed for those that loue thee not.</l>
+               <l>Thou, Thou, my IESV, to thy losse,</l>
+               <l>Wouldst needs embrace me on the crosse.</l>
+               <pb n="48" facs="tcp:32604:25"/>
+               <l>Thou wouldst endure both nayl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>redge; and lance,</l>
+               <l>Disgrace and dolours; with a trance</l>
+               <l>Of bloudy sweat, and boundles sea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>redge;</l>
+               <l>Of Anguishes and bitterness;</l>
+               <l>Nay even deaths last agony,</l>
+               <l>And this for me a foe to thee.</l>
+               <l>Most louing IESVS, shall this move</l>
+               <l>No like return of love for love?</l>
+               <l>Above all things I love thee best</l>
+               <l>Yet not for hope of interest;</l>
+               <l>Nor for to gain heavens promis'd land,</l>
+               <l>Nor for to stop thy threatning hand;</l>
+               <l>But as thou lovedst me, so do I</l>
+               <l>Love thee and ever shall, meerly</l>
+               <l>Because thou art my King my God,</l>
+               <l>Of love the source and period.</l>
+            </lg>
+            <closer>Amen.</closer>
+         </div>
+         <div type="part">
+            <pb n="49" facs="tcp:32604:25"/>
+            <head>TEN MOTIVES <hi>To excite all to a Devotion to</hi> S. FRANCIS XAVERIUS.</head>
+            <p n="1">1. HIs indefatigable zeal, ac<g ref="char:EOLhyphen"/>companied with an vn<g ref="char:EOLhyphen"/>daunted courage in vndertaking, suffering and overcoming all diffi<g ref="char:EOLhyphen"/>cultys for the good of souls.</p>
+            <p n="2">2. His singular affability wher<g ref="char:EOLhyphen"/>with he accommodated himself to all sorts of persons to gain them to God.</p>
+            <p n="3">3. His total contempt and ab<g ref="char:EOLhyphen"/>straction from all things of this world.</p>
+            <p n="4">4. That great fire of Divine love, which betraying itself so often even in his very countenance
+<pb n="50" facs="tcp:32604:26"/>shewed how full his soul was of God.</p>
+            <p n="5">5. His living and dying à pure Virgin.</p>
+            <p n="6">6. His extraordinary excelling in all kind of vertues and gifs of God.</p>
+            <p n="7">7. The great number of souls he converted, which were above two hundred thousand.</p>
+            <p n="8">8. His facility in working mi<g ref="char:EOLhyphen"/>racles alive and dead.</p>
+            <p n="9">9. The extraordinary favours he sheweth to those that are devo<g ref="char:EOLhyphen"/>ted to him.</p>
+            <p n="10">10. The common experience, wherby wee see that whosoever serously recommends himself to Saint Francis, either obtains his request, or comfort and strength to conforme to Gods will, if, (because not expedient for the good of his soul) he has not his petition gran<g ref="char:EOLhyphen"/>ted.</p>
+         </div>
+         <div type="part">
+            <pb n="51" facs="tcp:32604:26"/>
+            <head>
+               <hi>AN EXPLICATION OF</hi> The Devotion of ten Fridays in honour of <hi>S. FRANCIS XAVERIVS</hi> and what is to be done therein.</head>
+            <p>THis Devotion is instituted to obtain some singular favour of this Saint; who as heretofore on earth, so now in heaven is all bowels of mercy towards those that invoke him, and does most graciously and abundantly favour his Devout Clyents.</p>
+            <p>Ten fridays are ordained, and, if conveniently, without intermis<g ref="char:EOLhyphen"/>sion,
+<pb n="52" facs="tcp:32604:27"/>in each of which he that will perform this devotion, must con<g ref="char:EOLhyphen"/>fesse and communicate, and before some altar or picture of the Saint, or where-else most convenient, must also say ten <hi>Pater noster's</hi> and ten <hi>Aue Maria's,</hi> &amp; ten <hi>Gloria Patri's &amp;c.</hi> offering to God the merits of this Saint, to obtain the favour he desires.</p>
+            <p>Jn this two things are to be ob<g ref="char:EOLhyphen"/>served: the first is, that before one applies himself to this devotion he must purifie his intention, con<g ref="char:EOLhyphen"/>cerning the favour he petitions be it temporal or spiritual; pretending nothing else but the glory of God and the salvation of his own soul; for seing this was the only aime of this Saint whilst he lived is this world so it will be a more efficacious means now in heaven to move him to favour vs with
+<pb n="53" facs="tcp:32604:27"/>his intercession to his divine Ma<g ref="char:EOLhyphen"/>jesty to obtaine vs our request.</p>
+            <p>The second is, that none of these devotions omitted either in part or whole, have any obligation even of a venial sin, so that you may continue them or no, when begun, without any scruple; and if busines permits you not to per<g ref="char:EOLhyphen"/>form ten fridays in order go on with them at your leisure.</p>
+            <p>Friday is assigned in memory of the Saints dying on that day in the island of Sanciano. The number is in honour of the ten years he laboured in the Jndies for Gods greater honour and the good of souls; and the same is to be vnderstood of the ten <hi>Pater's</hi> and <hi>Ave's</hi> and <hi>Gloria Patri's.</hi>
+            </p>
+            <p>To the end this devotion may have more fruit and promote the exercise of some vertue, some con<g ref="char:EOLhyphen"/>siderations
+<pb n="54" facs="tcp:32604:28"/>are here set down taken out of the life of the Saint, one for euery friday; which is to be read on that day by those that practise this devotion, stirring themselves vp to a lively imitation of the Saint. To every considera<g ref="char:EOLhyphen"/>tion there is annexed a Colloquie in former of a prayer, begging of the Saint some spiritual grace, suitable to the foregoing conside<g ref="char:EOLhyphen"/>ration, and profitable for the good of their souls, wherin with a little labour they may spend their time with much profit.</p>
+         </div>
+         <div type="part">
+            <pb n="55" facs="tcp:32604:28"/>
+            <head>
+               <hi>THE CONSIDERATION</hi> For the first Friday.</head>
+            <head type="sub">Vpon the singular purity of mind and body of <hi>SAINT FRANCIS XAVERIVS.</hi>
+            </head>
+            <p>BY purity of mind is not only vnderstood innocency of life, but also a right intention of doing all our actions purely for the Glory of God and for no other end.</p>
+            <p>How great was this purity in Saint Francis? The sole aime of his immense labours was the Glory of God, not seeking any thing else either in his voyages by the most dangerous seas of Europe,
+<pb n="56" facs="tcp:32604:29"/>Asia, and Africa, or journies by land I may say through both worlds, or in his most troublesome preach<g ref="char:EOLhyphen"/>ing, but that God should be known praised and glorified. Jn a word, all he suffered (which as Francis Mansilla a great while companion to the Saint, said is not to be con<g ref="char:EOLhyphen"/>ceived how much it was) was only for the Glory of God, never re<g ref="char:EOLhyphen"/>garding any the least privat in<g ref="char:EOLhyphen"/>terest.</p>
+            <p>The reward of his labours was a most sublime degree of sanctity which he arrived vnto, whereby afterwards he deserved such a Glory in Heaven, and received so many favours here on earth.</p>
+            <p>And our Saviour to shew how pleasing his labours were to him wrought that continual miracle, that in his Fathers house a Cruci<g ref="char:EOLhyphen"/>fix sweat bloud every time the
+<pb n="57" facs="tcp:32604:29"/>Saint was in any difficult enter<g ref="char:EOLhyphen"/>prise or suffering.</p>
+            <p>Examen yourself, Devout soul, and see what intention you have in all your actions; if to please God only or else for some other privat interest. Jf the first, give God thanks, and stirre your self vp to perseverance; if the second, be sorry and purpose an amend<g ref="char:EOLhyphen"/>ment.</p>
+            <p>But by purity of body is chiefly vnderstood the vertue of chastity, which retrenches all sensual vn<g ref="char:EOLhyphen"/>lawful pleasures.</p>
+            <p>He excelled so much in this ver<g ref="char:EOLhyphen"/>tue, that as long as he lived he preserved the lily of his Virginity vnstained, and therefore is gene<g ref="char:EOLhyphen"/>rally painted with one. And which is yet more to be admired, he pre<g ref="char:EOLhyphen"/>served it most pure even living in the world, amongst the deights
+<pb n="58" facs="tcp:32604:30"/>and enticements of his own house, in the heat of his young blood, and liberty of the students of the Vniversity of Paris, where he lived, and even in the most licentious and loose manners of the Mahometans and Gentils, with whome he conversed so many years.</p>
+            <p>God rewarded this his Angelical purity, with the incorruption of his body after his death, and with infinite other miracles. For George Alvarez having buried it in quick lime that he might the easier carrie his bones from Sanciano (the Jsland where he died) to Goa, after three months found it as intire, as if newly buried; and which is more the body being cut bled as fresh as if alive.</p>
+            <p>This miracle extended it self also to his cloths which were pre<g ref="char:EOLhyphen"/>served
+<pb n="59" facs="tcp:32604:30"/>from receiving any harm from the lime, which naturally would have consumed both.</p>
+            <p>The body also sent out a most fragrant odour, far surpassing any in this world. The carrying the body through Malaca, freed it from a most desperate and infec<g ref="char:EOLhyphen"/>tious plague. And when it was brought to Goa, the miracle of it's incorruption did no lesse con<g ref="char:EOLhyphen"/>tinue, for severall times it bled a fresh, and even to this day (being now above a hundred years) ceases not, the body being as incorrupt as ever. Every one may easily see how he behaveth himself in this vertue, according to his state and condition.</p>
+            <div type="section">
+               <pb n="60" facs="tcp:32604:31"/>
+               <head>
+                  <hi>THE COLLOQUIE</hi> To <hi>SAINT FRANCIS XAVERIVS</hi> To obtain purity of body and soul.</head>
+               <p>MOst glorious Apostle of the East, most pure in body and soul: I, a most miserable creature, with all humility have recours to you, begging you would by your intercession obtain for me such a pure intention in all my actions, that I may never aime therein at any thing else but the greater glory of God; and such a pure chastity, that neither in thought, much lesse in word or deed, I may ever displease the most pure eyes of our good God. Amen. <hi>Through the intercession of</hi> SAINT FRANCIS XAVERIVS <hi>God grant me purity of mind and body. Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="61" facs="tcp:32604:31"/>
+            <head>
+               <hi>THE CONSIDERATION</hi> For the second Friday Vpon the most profound humility of <hi>S. FRANCIS XAVERIVS.</hi>
+            </head>
+            <p>ACcording to Saint Bernard, humility is a contempt of ones owne worth; according to Saint Thomas, it is a vertue whe<g ref="char:EOLhyphen"/>reby a man knowing his owne defects and imperfections, keeps himself within his own bounds, in a low degree.</p>
+            <p>SAINT FRANCIS practised this vertue in a most perfect manner towards all sorts of persons. For thô he was born of the race of the Kings of Navarre, by office Nun<g ref="char:EOLhyphen"/>cius
+<pb n="62" facs="tcp:32604:32"/>Apostolicus, and besides en<g ref="char:EOLhyphen"/>dowed with most rare talents of nature and learning, yet he hum<g ref="char:EOLhyphen"/>bled himself below all, when ever it was for the greater glory of God. He writ to SAINT IGNA<g ref="char:EOLhyphen"/>TIVS his Superiour always vpon his knees.</p>
+            <p>He answered a friend of his who examined him concerning a dead child he had raised in the coast of Comorino, with all humi<g ref="char:EOLhyphen"/>lity, as it were confounded: I raise the dead to life? And can you beleive such a thing of me, such a great sinner as I am?</p>
+            <p>In a word all his life is full of examples of his most profound humility, and was held for such over all Spain, Italy, France, Portugal, India, Iapony, and innumerable other Countries, wherein he exercised this vertue
+<pb n="63" facs="tcp:32604:32"/>in diverse ways, and in a most perfect degree, with the poor, prisoners, children, slaves, soul<g ref="char:EOLhyphen"/>diers, seamen, and what not? And this in a most abject &amp; contemp<g ref="char:EOLhyphen"/>tible manner, choosing for his lodging the Hospitals, for his cloths course canvais, and for his meat dry bread, burnt rice, and t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> like.</p>
+            <p>But God ordered it so, that the more he humbled and debased himself, the more he should be esteemed by others.</p>
+            <p>Hence it was Pope Paul the third admired him; and that he was honoured and respected by the King of Portugal in an extraor<g ref="char:EOLhyphen"/>dinary manner, and no lessed by the Vice-Roys of India, by Go<g ref="char:EOLhyphen"/>vernours of towns and Countrys, and by all persons of note. The Portughese even in Portugal gave
+<pb n="64" facs="tcp:32604:33"/>him the name of Apostle; the Gentils stuck not to give him Divine titles; the Mahometans held him for a great Prophet; many Idolatrous Kings called him Great Father; whole towns and countries came to meet him. The Missioners of the Society, that were designed for the Indies▪ thought it a Paradise to be sent to never so hard enterprises, if Saint Francis were but there; so little did they think of themselves, to enjoy him. Gonzalo Fernandez crept vpon his knees to S. Francis who knock'd at the door to speak with him; Angero a Iapo<g ref="char:EOLhyphen"/>nian came from the farthest parts of the East to the Island of Mo<g ref="char:EOLhyphen"/>lucche, above two thousand mi<g ref="char:EOLhyphen"/>les, only to treat with the Saint about the affairs of his soul: after the Saints death a new convertite
+<pb n="65" facs="tcp:32604:33"/>sailed from Goa to the Castle of Xavier in Spaine, above fifteen thousand Miles, only to see and reverence the Chamber S. Francis was born in. You see how true God's promise is, and how much it is verified in this great Saint,<note n="*" place="bottom">
+                  <hi>Luc.</hi> 18.14.</note>
+               <hi>He that humbleth himself shall be exalted.</hi>
+            </p>
+            <p>Let every one reflect vpon this, and see how he behaveth himself according to his state, with his superiours, with his equals, and with his inferiours. Let him see if he carries himself as a good Chri<g ref="char:EOLhyphen"/>stian ought with charity and sub<g ref="char:EOLhyphen"/>mission, or rather with pride and haughtynesse: and accordingly let him purpose to persever in the good, or mend what is amisse.</p>
+            <div type="section">
+               <pb n="66" facs="tcp:32604:34"/>
+               <head>THE COLLOQUIE▪ <hi>To</hi> S. FRANCIS XAVERIVS <hi>to obtain Christian humility.</hi>
+               </head>
+               <p>MOst humble Saint Francis I most earnestly desire you would beg of Almighty God for me strength and courage to overcome my pride, and imitate your humility, wherby I may offend no body either in thought word or deed, out of pride o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> contempt. I purpose on my part to vse all possible dili<g ref="char:EOLhyphen"/>gence thervnto, that I may glorifie God and edifie my neighbour. Amen.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="67" facs="tcp:32604:34"/>
+            <head>
+               <hi>THE CONSIDERATION</hi> For the third Friday.</head>
+            <head type="sub">Vpon the pennance and mortification of <hi>S. FRANCIS XAVERIVS.</hi>
+            </head>
+            <p>PEnnance here is not taken for a part of the Sacrament, but is a vertue that embraces hard dif<g ref="char:EOLhyphen"/>ficulties, and painfull afflictions for satisfaction for sins committed against God.</p>
+            <p>Most sharp were the mortifica<g ref="char:EOLhyphen"/>tions this Holy Apostle vsed and inflicted vpon himself, besides the insupportable sufferings annexed to his Apostolical charge and offi<g ref="char:EOLhyphen"/>ce. His fasts were very frequent, and, had not God particularly in<g ref="char:EOLhyphen"/>spired
+<pb n="68" facs="tcp:32604:35"/>him to vndertake them, might be called most indiscreet: For he passed three, four, and some<g ref="char:EOLhyphen"/>times seven days without the least sustenance; Thô his ordinary diet might be justly called a perpetual fast, as hath been gathered out of one of his letters to a friend of his wherein he confesses, that he lived more like a bird then a man, with nothing but water and rice. His watchings were continual, spend<g ref="char:EOLhyphen"/>ing the best part of the night in prayer. His sleep and rest (which he even vnwillingly allowed to nature) were rather to torment then ease him; for at sea he lay vpon the cables, and at land vpon the hard ground or a bed of cords. He wore day and night a continual hair-shirt. He girded himself with chains riveted with points of iron. He disciplined himself to blood
+<pb n="69" facs="tcp:32604:35"/>with whips armed with rowels of steel. His eyes were in a perpe<g ref="char:EOLhyphen"/>tual bath of tears for the offences he knew were committed by others against God. Confessing himself always a sinner and being both Confessour and penitent, he shared with others in their pen<g ref="char:EOLhyphen"/>nances, and vndertooke to satisfie for them vpon himself. Witnes that heroick act vpon the cost of Cananor, where to more a sinner to sorrow for his inveterate sins, he retired himself into a groue hard by, and there cruelly tore his body with whips till such quantity of blood trickled down his back as provoked the sinner to abundant tears, and a true compunction, and so he reconciled him to God.</p>
+            <p>But what wonder he should practi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e these most cruel mortifi<g ref="char:EOLhyphen"/>cations in this his office of Apostle,
+<pb n="70" facs="tcp:32604:36"/>seing from the first moment h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> begun a perfect life, he accusto<g ref="char:EOLhyphen"/>med himself to most rigid auste<g ref="char:EOLhyphen"/>rities? Who is ignorant, that to satisfie God for his to great ni<g ref="char:EOLhyphen"/>cenesse and sprucenesse in his cloths, and nimblenesse in dan<g ref="char:EOLhyphen"/>cing, he tyed his thighs so streight with little cords, that he was not able to breath; so far had he lett them eat into his flesh that they could not be seen; whereof he must necessarily have died, had not God most miraculously cured him, whome he had designed for the Apostle of the new world. Every one knows that in the Hos<g ref="char:EOLhyphen"/>pital of Vicenza to get a total victory over himself he sucked the corruption and matter of a most pestiferous &amp; lothsome empost-hume. And before he sayd his first Masse he spent forty days in most
+<pb n="71" facs="tcp:32604:36"/>rigid pennance shut vp in a little Grot of Mount Celso within the confins of Padoua. Infine these austerities were so dear to him that he never left them of till his dying day. So that with good reason he might say with Saint Paul,<note n="*" place="bottom">1. Cor. 15.31.</note>
+               <hi>I dye dayly:</hi> and<note n="*" place="bottom">Psal. 43. ver. 23.</note>
+               <hi>for thy sake wee are mortified all the day.</hi>
+            </p>
+            <p>As God is a most just rewarder of the least thing done for his sake, so he did abundantly recompence and sweeten these pains of Saint Francis with infinite and divine consolations, which his hart not not being able to bear, they ap<g ref="char:EOLhyphen"/>peared even in his very counte<g ref="char:EOLhyphen"/>nance, seeming to be allways in<g ref="char:EOLhyphen"/>flamed, yet allways cheerfull and pleasant, even in the most difficult enterprises; shewing to the world, that he was really in his hart a Citi<g ref="char:EOLhyphen"/>zen
+<pb n="72" facs="tcp:32604:37"/>of Heaven. This abundance of heavenly comfort forced him to cry out, <hi>Satis est Domine, satis est. It is enough, Lord, it is enough.</hi> Begging that an end might be put to those delights his hart of flesh was vnca<g ref="char:EOLhyphen"/>pable to endure. That posture of opening his breast which he was often seen in, was only to mitigate a little that divine heat of the love of God, that without intermission burnt and consumed his hart. I'le omit those extasies or rapts where in his body was often seen lifted from the ground; &amp; those frequent rays of light that so environed him, that he seemed rather a Seraphin of Divin love then a man of earth. Thomas Fernandez found him of<g ref="char:EOLhyphen"/>ten in Manapar of Piscaria, ele<g ref="char:EOLhyphen"/>vated a cubit from the ground, with his face surounded with rays, and his eyes sparkling like star<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.
+<pb n="73" facs="tcp:32604:37"/>Many eye-witnesses attested, that at Masse and Communion in Ma<g ref="char:EOLhyphen"/>laca and Meliapor, he was several times seen quite alienated from his senses, and elevated in the aire. These are some tokens of those divine consolations, this Angel of Heaven enjoyed here vpon earth in reward of the sufferings he vndertook for the love of God.</p>
+            <p>What have we now to say for our selves miserable and tender creatures that so much shun all occasions of suffering, even when our state of life and condition re<g ref="char:EOLhyphen"/>quire it? How ignorant are we of the true good! it is no wonder divine consolations are so scarce with vs since wee fly all trouble and difficulties, that might else in some manner deserve, and draw down those favours vpon vs.</p>
+            <div type="section">
+               <pb n="74" facs="tcp:32604:38"/>
+               <head>THE COLLOQUIE To <hi>SAINT FRANCIS XAVERIVS,</hi> To obtain a desire of pennance and mortification.</head>
+               <p>O Most mortified Apostle! behold at your feet the grea<g ref="char:EOLhyphen"/>test sinner of the world, and yet the most delicate; the most deser<g ref="char:EOLhyphen"/>ving of pennance, and yet the greatest shunner of it, who im<g ref="char:EOLhyphen"/>plores your help that he may be<g ref="char:EOLhyphen"/>gin to love that once, which he ought always to perform, and thereby satisfie God for his sins. You, O Dear Saint! most inno<g ref="char:EOLhyphen"/>cent, and yet so generous an em<g ref="char:EOLhyphen"/>bracer of austerity, obtain for me of my suffering Saviour your spirit, that I may set my affection more thereon, and therby dimi<g ref="char:EOLhyphen"/>nishing the pains of purgatory due to my sins, I may the sooner come
+<pb n="75" facs="tcp:32604:38"/>to enjoy with you the beatifical vision. Amen.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>
+               <hi>THE CONSIDERATION</hi> For the fourth friday Vpon the patience of <hi>S. FRANCIS XAVERIVS.</hi>
+            </head>
+            <p>PATIENCE is a vertue that strengthens our mind against all difficulties, that might other<g ref="char:EOLhyphen"/>wise deterr vs from our duty.</p>
+            <p>This Holy Apostle was so abun<g ref="char:EOLhyphen"/>dantly endowed with this vertue that he might justly say with Saint Paul,<note n="*" place="bottom">2. Cor. 6.4.</note>
+               <hi>Let vs exhibit our selves as the ministers of God in much patience.</hi> Truely it was very necessary in those his long and most trouble<g ref="char:EOLhyphen"/>some
+<pb n="76" facs="tcp:32604:39"/>sicknesses; as when destitute of all human comfort he was obli<g ref="char:EOLhyphen"/>ged in Vicenza to lye in the same bed with a most filthy and loath<g ref="char:EOLhyphen"/>some sick man; and in his journey from Amangucche to Meaco, to live only vpon water and burnt rice; and in the Island of Sanciano to dye totally abandoned by all. Yet these inconveniences were nothing to those he suffered in changing so often to so contrary climats, from one excesse to an<g ref="char:EOLhyphen"/>other, accommodating himself to the barbarous incivilitys of people so different from the Europeans in life and manners: in the excessive heats of the torrid Zone, in the incommodities of sea voyages, in tempests and dangers of shipwrack. What shall I say of persecutions from men and Divels? He was of<g ref="char:EOLhyphen"/>ten in the publick market-places
+<pb n="77" facs="tcp:32604:39"/>laught at by the people, sought for to death by the Gentils and Bonzi their Priests, as a destroyer of their Idols and Gods: most shamefully and vnhumanly reviled by Governours of townes and countries, captains of ships, soul<g ref="char:EOLhyphen"/>diers, and seamen; and even by Christians (amongst whome some bad are always to be found) vtter<g ref="char:EOLhyphen"/>ly hated as a reformer of their manners and wicked lives: finally left and betrayed most vngratefully by those he had been most benefi<g ref="char:EOLhyphen"/>cial vnto. The Divels also set vpon him divers times, and once beat him most vnmercifully in Meliapor, as he prayed all night at the tomb of Saint Thomas the Apostle; and they always persecu<g ref="char:EOLhyphen"/>ted him as their sworn and most bitter enemy.</p>
+            <p>Yet what did Saint Francis do?
+<pb n="78" facs="tcp:32604:40"/>What you a most delicate, nice, and cowardly creature would haue done? quitted what you had vn<g ref="char:EOLhyphen"/>dertaken, fainted and yeilded at the first seeming difficulty and fled back? No, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, quite contrary; he like an vndaunted souldier not the least struc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with these oppositions, stood his ground, and faithfully discharg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himself of his Aposto<g ref="char:EOLhyphen"/>lical duty and commission; wit<g ref="char:EOLhyphen"/>ness his journeys in his ten years, amounting to an hundred thou<g ref="char:EOLhyphen"/>sand miles, equivalent to almost fiue times the whole circumfe<g ref="char:EOLhyphen"/>rence of the earth; wherin he abolished innumerable superstiti<g ref="char:EOLhyphen"/>ons, rooted out many abuses, corrected many wicked and inve<g ref="char:EOLhyphen"/>terate manners, threw down Idols, converted innumerable souls, and baptized with his own hand above a million and two hundred
+<pb n="79" facs="tcp:32604:40"/>thousand persons. Worthy fruits indeed of the invincible patience of Saint Xaverius.</p>
+            <p>But what do I, miserable crea<g ref="char:EOLhyphen"/>ture? How doe I bear even the least things that happen dayly? How ought I to be ashamed, that have not the hart to suffer the least word, check, or crosse an<g ref="char:EOLhyphen"/>swer from another, which makes me so often neglect my Duty to God, and fail so frequently in the employment I am in? I am truly confounded seing with how little patience I might so much promote Gods glory, and that failing in the first, I am so notoriously de<g ref="char:EOLhyphen"/>ficient in the latter.</p>
+            <div type="section">
+               <pb n="80" facs="tcp:32604:41"/>
+               <head>THE COLLOQUIE.</head>
+               <head type="sub">To <hi>SAINT FRANCIS XAVERIVS</hi> to obtain the rertue of Patience.</head>
+               <p>YOu see most patient Apostle; the basenes of my hart, so streight and narrow, as not to dare to open it-self to receive the least crosse or adversity, but presently it yeilds and faints. Yet my crosses are not like yours, which were so hard and painfull, but slight trou<g ref="char:EOLhyphen"/>bles, and small difficulties, and yet I am most impatient in all occur<g ref="char:EOLhyphen"/>rences. O most patient Xaverius! Obtain of the Divin Goodnesse for me your spirit of patience that manfully resisting all difficultys annexed to my state and condition, I may faithfully comply with Gods Holy will. Amen.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="81" facs="tcp:32604:41"/>
+            <head>THE CONSIDERATION For the fifth Friday.</head>
+            <head type="sub">Vpon the Continual prayer of <hi>SAINT FRANCIS XAVERIVS.</hi>
+            </head>
+            <p>PRayer is an act of Religion whereby wee have recourse to God, begging what is fit wee should aske of him. Saint Iohn Da<g ref="char:EOLhyphen"/>mascen calls it an ascent of our minds to God, whereby wee treat and converse with him.</p>
+            <p>Saint Francis's prayer was con<g ref="char:EOLhyphen"/>tinual, fulfilling that,<note n="*" place="bottom">S. Luc. 18.1.</note>
+               <hi>It behoveth always to pray and never to cease:</hi> And that of the Apostle<note n="*" place="bottom">Phil. 3.20.</note>
+               <hi>Our Con<g ref="char:EOLhyphen"/>versation is in Heaven.</hi> Althô he was allways vnited to God, yet he
+<pb n="82" facs="tcp:32604:42"/>had some particular times alot<g ref="char:EOLhyphen"/>ted for it; spending the night chiefly in continual prayer and contemplation; never allowing himself above two or three houres for natural rest. On ship board for prayer he prefixed from midnight till morning, whervpon the seamen vsed to say, the ship sails securely seing Father Francis stands senti<g ref="char:EOLhyphen"/>nel. In Manapar he was at several hours in the night observed by his host, and found always vpon his knees at the foot of a crucifix. But what sort of prayer was it? Worthy indeed of that Seraphical hart all burning and sett on fire, &amp; carrying him to his only center God. In so much that many con<g ref="char:EOLhyphen"/>fessed they could not look him in the face, even in familiar conver<g ref="char:EOLhyphen"/>sation amongst them, his counte<g ref="char:EOLhyphen"/>nance so dazled their eyes. His
+<pb n="83" facs="tcp:32604:42"/>short thô most inflamed jaculatory aspirations give vs sufficiently to vnderstand what fire consumed his most ardent and loving soul; ha<g ref="char:EOLhyphen"/>ving been often heard to say even in his sleep and raging sic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ness, and commonly in latin, <hi>O Sanctis<g ref="char:EOLhyphen"/>sima Trinitas! O mi Iesu! O Dulcis Iesu! O Iesu cordis mei? O Most Holy Trinity! O my Iesus! O sweet Iesus! O Iesus of my hart!</hi> These shew vs that althô he was in body on earth, yet in his mind he was in Heaven. A second Daniel, who in Babylon, that is amongst Ido<g ref="char:EOLhyphen"/>latours, Barbarians, and a thousand hindrances and distractions, was in a continual and most perfect prayer. Our Saviour enriched this prayer of his servant with many favours. First of most high-con<g ref="char:EOLhyphen"/>templation, which seemed so natu<g ref="char:EOLhyphen"/>ral vnto hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that he vsed it at
+<pb n="84" facs="tcp:32604:43"/>his pleasure in vniting himself with God. Then of most Divine wisdome and prudence in knowing the will of God, and executing it to his greater glory. The third was a most admirable gift of pro<g ref="char:EOLhyphen"/>phecie, not only in seeing things a far of, and fortelling things to come, but even penetrating into the secrets of mans hart. Several of these prophecies are famous, as that of the death of Iohn Arau<g ref="char:EOLhyphen"/>sio at Amboinum two hundred and seventy miles distant from the place where Saint Francis was: that at Malaca, of the victory of the Portughese against the Aceni<g ref="char:EOLhyphen"/>ans. When he promised to Iames Pereira continual prosperity, which he ever after enjoyed. When he acquainted Peter Veglio of his death after a most peaceable and happy life, which acc<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dingly hap<g ref="char:EOLhyphen"/>pened:
+<pb n="85" facs="tcp:32604:43"/>of the destruction of the City of Tolo: of the misery of Alvarez Ataide, who endeavoured to stop his journey to China, and innumerable others; in so much that in the proces of his Ca<g ref="char:EOLhyphen"/>nonization, the Holy inquisition of Rome approved and allowed of a hundred and fifty most evident and manifest prophecies.</p>
+            <p>J perceive, Devout soul! you are desirous of these favours, and would willingly betake yourself to such prayer were you to reap such fruit. But consider a little with your-self and see what time you allow for prayer? Ah! I am ashamed to tell, what is to true. It is but little or none, and that the worst part of the day: if you have any time to spare, and know not what to do with it, that you give to God: and yet how is that
+<pb n="86" facs="tcp:32604:44"/>spent to. As for your exteriour carriage and comportment is it fit to appear before that God with whome you treat? For your inward attention and affection I fear it is so poor and weak, that you easily admit distractions, or at least are very negligent in putting them away. And do you think God will bestow his favours on a soul so ill prepared to receive them? You are deceived. Do then what is requisite on your part and correct your defects, and then God will not be wanting on his.</p>
+            <div type="section">
+               <head>THE COLLOQUIE To <hi>SAINT FRANCIS XAVERIVS</hi> To obtain the grace of prayer.</head>
+               <p>I Aspire not, O Holy Apostle, to those admirable favours God enriched your prayer with; No!
+<pb n="87" facs="tcp:32604:44"/>those were properly yours and pe<g ref="char:EOLhyphen"/>culiar to that great soul to which God did in so singular a manner communicat himself. I am con<g ref="char:EOLhyphen"/>tented with the more solid part of prayer, and do humbly beg you to obtain of God for me a true love and affection to it, attention in it, and fruit out of it. Such a love of it, as never to omit it or assign the worst part of the day for it. Such an attention to it, that I may never be voluntarily distracted in it. Such fruit from it as may correct my defects and manners, and encrease the vertues most re<g ref="char:EOLhyphen"/>quisite for my state and calling. This is what I beg of you, O most glorious Apostle! and for this end I make a purpose to vse such meanes as are requisit.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="88" facs="tcp:32604:45"/>
+            <head>
+               <hi>THE CONSIDERATION</hi> For the Sixth Friday Vpon the magnanimity and generosity of <hi>S. FRANCIS XAVERIVS.</hi>
+            </head>
+            <p>GEnerosity is a vertu that so emboldens the mind, as not to be daunted at hard enterprises that vsually deterr it from vertu<g ref="char:EOLhyphen"/>ous actions. This vertue and dispo<g ref="char:EOLhyphen"/>sition of mind was but necessary to this Holy Apostle to strengh<g ref="char:EOLhyphen"/>then him against so many difficul<g ref="char:EOLhyphen"/>ties, oppositions, and dangers; which were not the easier and lesse to be feared, because necessarily annexed to his office of Apostle. Dangers at sea, at land, from trea<g ref="char:EOLhyphen"/>cherous
+<pb n="89" facs="tcp:32604:45"/>companions, strangers, thieves and cut-throats, both in publick and in private, were no lesse inseparable companions of Saint Francis, then of Saint Paul. The difficulties he encountred (as wee read in his life) were such that nothing but a most heroick courage could have overcome them. He crossed from the Indies to Iapony the most dangerous tract of all those seas by reason of the raging south winds; and that in a little boat (the seamen being all Pi<g ref="char:EOLhyphen"/>rats, and the Master both Idolatour, and Pirate) running continual risk of either being drowned at sea, or cast vpon some desert Island, there necessarily to have starued. In his journy from Meliapor to the Mo<g ref="char:EOLhyphen"/>lucche crossing from one Island to an other, he suffer'd thrice ship<g ref="char:EOLhyphen"/>wrack, and once lighting vpon a
+<pb n="90" facs="tcp:32604:46"/>planck of a ship, tossed three days and three nights by the tempestu<g ref="char:EOLhyphen"/>ous waves was at last rather dead then alive cast a shore. His dangers at land were no lesse then at sea. For thô he was generally estee<g ref="char:EOLhyphen"/>med by Vice-Roys, Governours, and other Officers, yet he wanted not most strong oppositions, as in the shore of Piscaria, in Travan<g ref="char:EOLhyphen"/>cor, and in Goa. Most obstinat was that of Alvarez Ataide then Go<g ref="char:EOLhyphen"/>vernour of Malaca, who neither by entreaties nor threats could be brought to allow of Iames Perei<g ref="char:EOLhyphen"/>ra's sailing to China, with whome Saint Francis intended to go to convert that great Empire. He went to the Islands of Molucche, and Moro (famous for its barba<g ref="char:EOLhyphen"/>rous cruelty) against the consent of all his friends, and in spight of all the threats of the Divels. In
+<pb n="91" facs="tcp:32604:46"/>Amangucci the Bonzi with armed men continually sought to kill him. In the most heroick enter<g ref="char:EOLhyphen"/>prise he framed in his soul of the conversion of China, death was the least danger he apprehended: Fea<g ref="char:EOLhyphen"/>ring not a world of dangers to free an other from the tyranny of the Divel.</p>
+            <p>Whoever you are, Dear soul, that reads these generous acts of S. Francis Xaverius, reflect with your self and see, how you carry your self in the service of God. I am affraid the very shadows of difficultys do quite disharten and deterr you from all good works. Jf it be so, be confounded at your own weakness, and beg of the Saint a noble hart that may not only not yeild but even surpass at least ordinary and small hinderan<g ref="char:EOLhyphen"/>ces in the service of God.</p>
+            <div type="section">
+               <pb n="92" facs="tcp:32604:47"/>
+               <head>
+                  <hi>THE COLLOQUIE</hi> To <hi>SAINT FRANCIS XAVERIVS</hi> to obtain a Generous hart.</head>
+               <p>BEhold at your feet, O most generous Apostle! a soul that most shamefully neglects all things belonging to the service of God. I fear, I confes, the least thing that either seems difficult or any ways terrible; and by this my in<g ref="char:EOLhyphen"/>ordinate pusillanimity I fly back and quitt many a noble action, that otherwise might very much increase the glory of God. O Holy Apostle, grant me but one spark of your great courage, wherewith you vnderwent such difficultys. Animate, and strengh<g ref="char:EOLhyphen"/>then my pusillanimity, that fright<g ref="char:EOLhyphen"/>ned by no opposition, I may most
+<pb n="93" facs="tcp:32604:47"/>manfully and readibly fulfill Gods holy will. Amen.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>
+               <hi>THE CONSIDERATION</hi> For the seventh Friday.</head>
+            <head type="sub">Vpon his great love of God and power over all Creatures.</head>
+            <p>HEre are, Devout Reader, two considerations; the first to be imitated, the second to be admired; yet both very profitable for you; for whether you imitate or admire Saint Xaverius, you may assure yourself of his protection and in<g ref="char:EOLhyphen"/>tercession. The first is his love of God; the second his power over all creatures.</p>
+            <p>As for the first, what do you
+<pb n="94" facs="tcp:32604:48"/>think, devout client of S. Fran<g ref="char:EOLhyphen"/>cis, of the love he bore to God. His whole life is a sufficient proof thereof, according to that great saying, <hi>Probatio dilectionis exhibitio est operis. Deeds are the marks of love.</hi> But yet to give you some more particular signs thereof, here are some few reflections no lesse true then wonderfull. This love of God did so inflame his hart, and set it all on fire, that he was not able to suffer it's insupportable heat, nor scarce endure his cloths. Once as he was walking in the streets of Goa, he was so totally absorped with the love of God, that he took no notice of an Elephant that broke loose and threatned death to all it met; but yet after<g ref="char:EOLhyphen"/>wards to the great wonder of all it retired. The like happened to him going from Amangucci to Meaco,
+<pb n="95" facs="tcp:32604:48"/>when he run like a servant be<g ref="char:EOLhyphen"/>hind a noble-mans horse, never feeling the thorns that continually tore his feet; so much was his mind absorpt in the abysse of the love of God. Every where he was out of himself and totally in God: but above all in prayer, Masse, and thanks-giving after the Divine Sacrifice. His soul betrayed itself so clearly in his very countenance that the Pope sayd of him, that he was <hi>Vultu adeo inflammatus vt Ange<g ref="char:EOLhyphen"/>licam prorsus charitatem representaret.</hi> Seeming rather a burning Seraphin and a blessed spirit vpon earth, then a man.</p>
+            <p>What say you pious reader! you do wonder and admire him, and I am comforted thereat; be<g ref="char:EOLhyphen"/>cause hereby you may frame some conceit of the great love S. Xave<g ref="char:EOLhyphen"/>rius bore to God. But why do not
+<pb n="96" facs="tcp:32604:49"/>you endeavour also to love the same God? For he is the same he was then, ever deserving to be be<g ref="char:EOLhyphen"/>loued above all things created; and should you not love him you would always prove the most miserable creature in the world, for not pla<g ref="char:EOLhyphen"/>cing your affection vpon a God that is so worthy of love, seing to love him is the sole happinesse of man.</p>
+            <p>As for the second point propo<g ref="char:EOLhyphen"/>sed in the beginning, God even in this life seemed to reward his Saint with an vniversall power and dominion over all creatures. The Heavens saw the day encreased three houres by the prayers of this second Iosue, that the Christians might give a totall overthrow to the Infidels. The earth rent it self with most horrid earthquakes to frighten the Citizens of Tolo to
+<pb n="97" facs="tcp:32604:49"/>to the Christian faith, which they had so shamefully forsaken; The aire bore him vp from the ground several times both by night and day. The fire raging and threat<g ref="char:EOLhyphen"/>ning several houses, obey'd his command and offer'd not to passe the limits prescribed by Saint Xa<g ref="char:EOLhyphen"/>verius. But the water seemed to ac<g ref="char:EOLhyphen"/>knowledge most of all, his power. He was an anchor to ships in the greatest stormes; a favourable gale to carry them through the most dangerous shallows and sands of the seas; a calme allaying tem<g ref="char:EOLhyphen"/>pests; and a haven for those that suffered shipwrack. The very Ido<g ref="char:EOLhyphen"/>latours called him the God of the sea, and spared no charge for them<g ref="char:EOLhyphen"/>selves and their goods to sayl in the ship Saint Xaverius went in. In the Indies he often changed salt water into fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sh; and once by
+<pb n="94" facs="tcp:32604:50"/>only dipping his foot into the sea. He allayed tempests sometimes by prayer, other times with relicks he wore, or with the sign of the crosse; and once by letting his crosse into the water; which God to double the wonder, permitted a wave to snatch away, and so bcreft him of his only comfort; when behold soon after a Lobster with open clawes above water brought it to Saint Francis again.</p>
+            <p>Jt is impossible to specifie every particular miracle wrought in this kind by Saint Francis: let these few in short suffice, to convince you that in this glorious Saint you have a Patron ready to command all creatures for your good; so that in all occasions and necessities you may have recourse to him with confidence, and hope in his most powerfull intercession and assistan<g ref="char:EOLhyphen"/>ce.</p>
+            <div type="section">
+               <pb n="99" facs="tcp:32604:50"/>
+               <head>
+                  <hi>THE COLLOQUIE</hi> To <hi>SAINT FRANCIS XAVERIVS</hi> to obtain the Holy love of God.</head>
+               <p>WHAT did you aime at throughout the whole cour<g ref="char:EOLhyphen"/>se of your life, O Holy Apostle, but to bring all the world to the love of God? And now, will you not ô great lover of God! obtain for me a poor helplesse creature, an ardent desire of loving him above all things? Ah I doubt not of your help and intercession but I apprehend my owne weaknes, least permitting my self to be deceived by the foolish love of creatures I may swerve from the true love of my Creatour. Help me then ô Holy Saint Francis! that I may not be so deluded, but
+<pb n="100" facs="tcp:32604:51"/>yeilding vp my will to God I may by a holy necessity allways love him both in this life and in the next. Amen.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>
+               <hi>THE CONSIDERATION</hi> For the eighth Friday Vpon the love of <hi>SAINT FRANCIS XAVERIVS</hi> towards his neighbour.</head>
+            <p>HE that truely loveth God, does extend his affection also to his neighbour, as being dear to God and his lively image. So that Saint Xaverius loving God as you have seen, ought consequently to love his neighbour; which he did in the perfectest manner he could, fulfilling those words of S. Paul
+<pb n="101" facs="tcp:32604:51"/>
+               <note n="*" place="bottom">1. Cor. 9.22.</note>Omnibus omina factus, to all men be<g ref="char:EOLhyphen"/>coming all things that he might save all.<note n="*" place="margin">2. Cor. 6.6.</note> In charitate non fictâ sed vera, in true not feigned charity.</p>
+            <p>He never spared any labours, troubles, difficulties, nor even life itself to benefit him either in his temporal or spiritual necessities, thô he laboured most to succour the soul as being the more noble part. The only aime and design of his Apostolical missions and hard enterprises was the salvation of souls; and where he proposed to himself any hopes of converting any to God, he let slip nothing that might any way promote or further his intentions. With children he was one, alwayes so concerned for their spiritual profit, that thô he was a man of that au<g ref="char:EOLhyphen"/>tority and esteem, yet he dis<g ref="char:EOLhyphen"/>dained
+<pb n="102" facs="tcp:32604:52"/>not to go about with a little bell, exhorting parents to send their children to be instructed in the Christian Doctrine. With sinners he became, as I may say, a sinner, familiarly treating and con<g ref="char:EOLhyphen"/>versing with them that so he might bring them to God: for preten<g ref="char:EOLhyphen"/>ding to be ignorant of their vices, blasphemies, murders, vseries, and all their whole life, he changed the hatred they bore him into love, and the love they bore to all vicious habits and propensions, into a de<g ref="char:EOLhyphen"/>testable hatred of sin. To infidels, (as particularly recommended to him from Heaven) he shew'd such charity that no body can expresse it. And if the height of this, accor<g ref="char:EOLhyphen"/>ding to the oracle of truth it self, be to give his life for his beloued. he was alwayes ready to do it for them: which did so mollifie and
+<pb n="103" facs="tcp:32604:52"/>win their harts that it is incredible how many through this only mo<g ref="char:EOLhyphen"/>tive did embrace the Christian faith; whervpon Father Melchior Nugnez then Superour of the In<g ref="char:EOLhyphen"/>dies, a man of rare prudence and no lesse vertue, said, that con<g ref="char:EOLhyphen"/>verting Infidels to Christ in Saint Francis Xaverius did not seem a gift infused, or a vertue got by habit, but a natural inclination: so bent was he vpon that only work, that he could not live nor take any satisfaction in any other imploy<g ref="char:EOLhyphen"/>ment, then the instructing and bringing souls to the knowledge and love of the only true God. This perpetual motion of Charity was his only respite, this exercise his only repose. Nothing will be better able to shew the greatnes of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s his charity and zealous assi<g ref="char:EOLhyphen"/>duity therin, then the number of
+<pb n="104" facs="tcp:32604:53"/>those he baptized with his own hand, which amounted to a million and two hundred thousand per<g ref="char:EOLhyphen"/>sons. As for what belongs to the temporal assistance of his neigh<g ref="char:EOLhyphen"/>bour, who can reckon vp the deeds of charity he shewed to every one as well poor as rich; nor was there any work of mercy that he did not practice either in his owne person, or when he could not himself, by vsing others help for the succou<g ref="char:EOLhyphen"/>ring the poor and needy. His ten<g ref="char:EOLhyphen"/>der care of the sick will be a sufficient proof of his boundles charity. He was to them a Father, Mother, Brother, Physician, and anurse in the meanest offices, in private houses, and in publick Hospitals; if any died, he washed and layed them out with his own hands, digged their graves, and buried them himself. God seeming
+<pb n="105" facs="tcp:32604:53"/>to second these heroick desires of Saint Francis so much bent vpon serving his neighbour, endowed him in a particular manner with that divine gift of curing the sick: For in the deeds of his canonization you will find the wonderfull cures of all diseases, wrought by the power of this great Xaverius, to be innumerable. The blind received the benefit of their eyes, the lame the vse of their limbs, the lepers were clean<g ref="char:EOLhyphen"/>sed, the dumb restored to their speach, the deaf to their hearing, possessed persons freed from ma<g ref="char:EOLhyphen"/>lignant spirits that tormented them. To be short, so many were these prodigious cures, that in and about the City of Naples only, there are sufficient to fill a whole book. Yet these cures of diseases are nothing if compared to those
+<pb n="106" facs="tcp:32604:54"/>he raised from death to life, which amount according to the authen<g ref="char:EOLhyphen"/>tick transactions of the Saints Ca<g ref="char:EOLhyphen"/>nonization to above five and twen<g ref="char:EOLhyphen"/>ty. What has been here said is but an abridgement; and only helps to frame some conceit or Ideae of the Saints great charity to his neighbour, referring you to the writers of his life to see the innu<g ref="char:EOLhyphen"/>merable other graces and favours through his means and intercession conferred vpon all sorts of persons, as seamen, marchands, barren women or in childbed, souldiers &amp;c.</p>
+            <p>We may gather two fruits from what has been said. The first a holy confusion in our selves for helping and furthering so little the good of our neighbour either spirituall or temporall. Who of vs is troubled or concerned to see him
+<pb n="107" facs="tcp:32604:54"/>offend God? Who is there, that either hinders him from falling, or gives his helping hand to raise him again from sin? Which of vs grie<g ref="char:EOLhyphen"/>ves at his losses, or suffers any thing to promote his good? Do we visit him in the hospitals, and pri<g ref="char:EOLhyphen"/>sons? Are we charitable vnto him? Doe we relieve his wants with almes? Or rather doe we not spend that on beasts that only serve for sport and pastime, which ought to be employed in succou<g ref="char:EOLhyphen"/>ring and assisting our neighbour, the very image of God himself? The second fruit is a lively con<g ref="char:EOLhyphen"/>fidence of being assisted by this Holy Apostle in our necessities as well corporal as spiritual, if wee apply our selves vnto him as we ought.</p>
+            <div type="section">
+               <pb n="108" facs="tcp:32604:55"/>
+               <head>
+                  <hi>THE COLLOQUIE</hi> To <hi>SAINT FRANCIS XAVERIVS</hi> To obtain a true love of our neighbour.</head>
+               <p>I know to to well ô most zealous Apostle! the coldnes of my hart towards my neighbour. I own, and condemn my self for the small cha<g ref="char:EOLhyphen"/>rity I shew, in succouring his ne<g ref="char:EOLhyphen"/>cessities either temporal or spiri<g ref="char:EOLhyphen"/>ritual; and I am ashamed and to<g ref="char:EOLhyphen"/>tally confounded considering your admirable zeal and concern for his good. Obtain for me, ô true lover of your neighbour! the least spark of that great fire that consumed your hart, which may kindle in my soul a true zeal and love of others good, that grieving at their misfortunes, and equally compas<g ref="char:EOLhyphen"/>sionating
+<pb n="109" facs="tcp:32604:55"/>them in mind, comfor<g ref="char:EOLhyphen"/>ting them in words, and helping them in deeds, I may the better imitate you in this vertue of chari<g ref="char:EOLhyphen"/>ty, which is so properly termed yours. Amen.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>
+               <hi>THE CONSIDERATION</hi> For the ninth friday Vpon <hi>S. FRANCIS XAVERIVS</hi> great desire to dye for Christ.</head>
+            <p>THe consideration of this day is far different from the for<g ref="char:EOLhyphen"/>mer; for thô in some you have seen, Devout Reader, the de<g ref="char:EOLhyphen"/>sire this Saint had to suffer for Christ, yet we have not spoken of what belongs to the dying for
+<pb n="110" facs="tcp:32604:56"/>him and giving testimony of his Holy faith by the shedding of his blood and becoming a Martyr.</p>
+            <p>Saint Francis had this desire in the greatest excesse imaginable, that he could with reason say with Saint Paul, <hi>Quotidie morior, I die dayly,</hi> by always desiring to die, and because I never am so happy as to die, and give my life for my God. And thô Almighty God pre<g ref="char:EOLhyphen"/>serving him alive for his greater honour and glory, would not grant him the favour of a Martyrdome consummated by death, yet he tryed his constancy by several combats not inferiour to those of Martyrs, and above all, permitted him to survive to that languishing desire of dying, that he might at least live a Martyr, thô he could not die one.</p>
+            <p>He was apprehended twice in
+<pb n="111" facs="tcp:32604:56"/>Iapony, sent to sea, and delivered over to murtherers to be dispat<g ref="char:EOLhyphen"/>ched; who vpon the point of exe<g ref="char:EOLhyphen"/>cuting their cruel design were so terrified and frightned by a sudden tempest, that they spared his life. He was also twice led to the com<g ref="char:EOLhyphen"/>mon place of execution by the furious incensed people. Twice stoned by the Moores. Often bea<g ref="char:EOLhyphen"/>ten, several times shot at with arrowes, and as often presented with poyson be. Vpon the sea cost of Piscaria the Idolatrous Badagi sought to kill him.</p>
+            <p>The Mahometans persecuted him with no lesse malice and rage▪ and because their own children, whome the Saint had baptized, stood often sentinels to defend him from there parents fury and sometimes found ways for the Saint to escape their cruel hands, they set fire to the
+<pb n="112" facs="tcp:32604:57"/>houses where they suspected him to lie hid. Whence a grave and lear<g ref="char:EOLhyphen"/>ned Doctour Martino Navarra re<g ref="char:EOLhyphen"/>flecting vpon the life of S. Fran<g ref="char:EOLhyphen"/>cis Xaverius alwaies exposed to danger of death, sticks not to call it a perpetual Martyrdome.</p>
+            <p>All I have touched vpon here and more that I omitt, is nothing to the reall desire he had to die for so honourable a cause as the faith of Christ: and certainly he endured more anguish in his mind, by always (thô in vain) desiring to loose his life, then he could have suffered in his body by once dying a Martyr. Through the excesse of these ardent wishes he was forced to cry out, <hi>Amplius Domine, Amplius, More, Lord, More,</hi> when in his sleep he seemed to carry vpon his back a heavy Moor, and in him the new world of the Indies. Out of the
+<pb n="113" facs="tcp:32604:57"/>same inflamed desire he bore a holy envy to the fathers of the Society, who were in future ages to convert all the Islands of Moro, hoping withall, as he said, that those Islands would come to chan<g ref="char:EOLhyphen"/>ge their names and be called the Islands of Martyrs.</p>
+            <p>To one that endeavoured to dissuade him with the apprehen<g ref="char:EOLhyphen"/>sions of death from those his he<g ref="char:EOLhyphen"/>roick enterprises, he answered with no lesse humility then generosity, that it was what he so much de<g ref="char:EOLhyphen"/>sired, but he knew himself vn<g ref="char:EOLhyphen"/>worthy of such a signal favour. What he writ to a friend of his sheweth most clearly what were the desires of his great and noble soul: I (says he) sometimes do abhorre even life it self, and covet rather to die then to see God so much offended, without being
+<pb n="114" facs="tcp:32604:58"/>able to hinder it as I desire. So that the Acts of his Canonization say with reason of this glorious Apo<g ref="char:EOLhyphen"/>stle; <hi>Varia infidelium loca peragravit, non minus vt pro Christi fide sanguinem profunderet, quam vt fidei lucem gen<g ref="char:EOLhyphen"/>tibus inferret. That he travelled over so many countries of the Infidels with no lesse desire to shed his blood for the faith of Christ, then to enlighten the Gentils with the light of the true faith.</hi>
+            </p>
+            <p>Reflect, weak soul, vpon what has been said, and be ashamed of your carriage so little ressembling this great pattern and example, and aske yourself this question: was not Xaverius of flesh and blood, as I am? was not he a man, a son and child of Adam as my self? and yet how comes it to passe that he is so much enflamed with the divine love and I so
+<pb n="115" facs="tcp:32604:58"/>little? And you'le find the origin of his so singular perfection to have been a total abnegation of himself, and alienation from all self love, whereby being transformed into God he desired to die to the world, that he might live to him alone. Ah if you could but once resolue to die to self love, then assure yourself the Holy love of God would abundantly encrease in your soul.</p>
+            <div type="section">
+               <head>THE COLLOQUIE.</head>
+               <head type="sub">To <hi>SAINT FRANCIS XAVERIVS</hi> to beg the grace to die to self love.</head>
+               <p>YOu had reason to say, Holy Xaverius, with S. Paul;<note n="*" place="bottom">Gal. 2.20.</note>
+                  <hi>I live, now not I, but Christ liveth in me,</hi> who kindled in your soul those great desires of dying once to flesh
+<pb n="116" facs="tcp:32604:59"/>and blood that so by death you might be vnited to your spirit, which was Christ. But I, vnhappy wretch, live still to my self, I live to my owne flesh, to my body, and to self love? and what won<g ref="char:EOLhyphen"/>der if I desire not to die for Christ, thereby to be vnited to him? what wonder if I love him not as my life? Beg of Almighty God for me, Dear Saint, that I may die to self love, to the end that eve<g ref="char:EOLhyphen"/>ry day so dying I may become wholy dead therevnto and begin to live to Christ; that then I may likewise with truth say with Saint Paul and you glorious Saint, <hi>I de<g ref="char:EOLhyphen"/>sire to be dissolved and to be with Christ. Amen.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="117" facs="tcp:32604:59"/>
+            <head>
+               <hi>THE CONSIDERATION</hi> For the Tenth Friday Vpon the perfections of <hi>SAINT FRANCIS XAVERIVS.</hi>
+            </head>
+            <p>SAINT FRANCIS XAVERIVS was an Apostle sent by JESVS CHRIST, by command of his Vicar Paul the third with the title of Nuncius A postolicus, to preach the Gospel to the Indians and convert them to our Holy Faith. Whereof he converted many hun<g ref="char:EOLhyphen"/>dred thousands, amongst whome were several Kings, Queens, Princes and great men. His sister, a Holy woman, Abbesse of the Poor Claresses at Gandia, fore<g ref="char:EOLhyphen"/>told
+<pb n="118" facs="tcp:32604:60"/>he should be such an one; for desiring her father to let him study Divinity, she said, he should prove a Great Apostle of the Indies.</p>
+            <p>He was a prophet, and in such a manner that a most vertuous and wise man sticked not to say, that in some the spirit of prophecie was by fits, but in Saint Xaverius it see<g ref="char:EOLhyphen"/>med a constant habit. He was not only master of humane Philoso<g ref="char:EOLhyphen"/>phy at Paris, but of the divine also in the East; where to all sorts of people he preached the Gospel and instr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted them in what belonged to our holy faith; He confuted many masters of the Idolatou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in several disputes; the Bra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mans of the Indians, the Carizi of the Moors, and the Bonzi of the Iapo<g ref="char:EOLhyphen"/>nians.</p>
+            <p>He was endowed with all man<g ref="char:EOLhyphen"/>ner of vertues whether you mean
+<pb n="119" facs="tcp:32604:60"/>power of working miracles, as you have seen in the former considera<g ref="char:EOLhyphen"/>tions, or vertuous habits that adorn the soul, as humility, chastity, patience, charity, &amp;c.</p>
+            <p>He had the gift of curing disea<g ref="char:EOLhyphen"/>ses <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as wee have shewn you by several wonderfull examples.</p>
+            <p>He had the gift of helping the needy, in so much that he never refused his aid to any if conducing to their eternal salvation. He governed all with rare prudence as well seculars as Religious, which talent made him esteemed by the greatest Princes. The King of Portugal reverenced him as an oracle, receiving and following his directions as commands. The King of Travancor, called the <hi>Great King,</hi> published an Edict, commanding every one to obey the <hi>Great Father</hi> (Saint Xaverius)
+<pb n="120" facs="tcp:32604:61"/>as the <hi>Great King.</hi> Saint Ignatius resolved to make him General of the Society of IESVS.</p>
+            <p>Lastly he had the gift of ton<g ref="char:EOLhyphen"/>gues. Jn those countries they speak above a hundred several lan<g ref="char:EOLhyphen"/>guages; thirty wherof are quite different; yet Saint Francis when he entred those parts did not only vnderstand the natives, but spoke the very same languagues most elegantly; yet with these two pri<g ref="char:EOLhyphen"/>viledges; first of being vnderstood (thô preaching to an auditory of different nations) by every one in their mother tongue: secondly of satisfying with one only answer the demands of several proposed to him at the same time, thô rela<g ref="char:EOLhyphen"/>ting to different matters. Hereby we see that God by a special fa<g ref="char:EOLhyphen"/>vour seems to have endowed Saint Francis with all those gifts S. Paul
+<pb n="121" facs="tcp:32604:61"/>speakes of to have been divided amongst several in the primitive Church.<note n="*" place="bottom">1. Cor. 12.28.</note>
+               <hi>Some God hath placed in the Church, first Apostles, secondly Prophets, thirdly Doctors, next mira<g ref="char:EOLhyphen"/>cles, then the graces of curing diseases, helps, governing, kinds of tongues.</hi> All these gifts and graces were re<g ref="char:EOLhyphen"/>quisit for that great enterprise o converting the new world to the faith of Christ, for which God had designed his great servant SAINT FRANCIS XAVERIVS.</p>
+            <p>These things mentioned in short ought, devout reader, to stirr vp in you a lively confidence and de<g ref="char:EOLhyphen"/>votion to this great Saint so much beloved by God, and for his extra<g ref="char:EOLhyphen"/>ordinary sanctity enriched with such singular and rare graces and favours by the hand of his so boun<g ref="char:EOLhyphen"/>tifull Creatour. Seing therefore
+<pb n="122" facs="tcp:32604:62"/>the nature of love is to change him that loves into him that is beloued, and to create such a like<g ref="char:EOLhyphen"/>nes in their lives and actions, that they seem to live in one an<g ref="char:EOLhyphen"/>other, you ought to endeavour to liken yourself according to your state and condition, in all your actions to SAINT XAVERIVS, that finding in your soul some of his vertues he may love you the more, and loving you recommend you to our Lord, and obtain for you the favours you ask of him. To which end you shall finish your ten fridays with this following colloquie.</p>
+            <div type="section">
+               <pb n="123" facs="tcp:32604:62"/>
+               <head>THE COLLOQUIE.</head>
+               <head type="sub">To <hi>SAINT FRANCIS XAVERIVS</hi> To obtain grace to imitate his vertues.</head>
+               <p>IF I love you, O most Holy Apostle! I have just reason for it finding in you a thousand mo<g ref="char:EOLhyphen"/>tives, to wit your many perfecti<g ref="char:EOLhyphen"/>ons that render you worthy of all love. But if you love me, as I am sure you do, it is purely your goodness and only vpon the ac<g ref="char:EOLhyphen"/>count of my being a sinner. I am ashamed O Holy XAVERIVS that I have nothing that can win your love, but the difformity of my soul, nor any other title that may any way seem to challenge your affecti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, then what in reality deserves your hatred; wherfore I
+<pb n="124" facs="tcp:32604:63"/>most earnestly beseech you to obtain for me the grace to imitate your vertues, and those chiefly that did particularly render you so dear and pleasing to the Divin Goodness: that being so adorned I may both please you, and be acceptable in this life to the most pure eyes of the all-seing God, and have an assurance of enjoying him with you in the next for an eternity. Amen.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:32604:63"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
